@@ -2,7 +2,7 @@
 
 Docker image that runs the pivx daemon which can be turned into a masternode with the correct configuration.
 
-If you like this image, buy me a coffee ;) DGuggerovpXAZcsUT2sMtcGNSwrjTudFEE
+If you like this image, buy me a coffee ;) BTC tip address: `bc1qrepygjyxq34d08dqpwhryej5aclpqgzc28seqt`
 
 ## Quick Start (daemon/masternode)
 
